@@ -1,16 +1,39 @@
-## Hi there 👋
+# 🌸 Hey there, I'm Shaina!
 
-<!--
-**shaina24-3/shaina24-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Curious mind | 💻 Aspiring developer | 🌱 Always learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
+- 🎓 Student exploring the world of tech  
+- 💡 Currently learning: Web Dev & Machine Learning  
+- 🚀 Building projects & improving every day  
+- 🌈 Love solving problems (and debugging 😅)
+
+---
+
+### 🛠️ Tech Stack
+- 💻 Languages: JavaScript, Python  
+- 🌐 Web: HTML, CSS, React, Node.js  
+- 🧠 Learning: Machine Learning basics  
+
+---
+
+### 📌 Current Goals
+- 🌟 Contribute to open source  
+- 📈 Improve DSA & problem solving  
+- 💼 Land amazing internships  
+
+---
+
+### 💖 Fun Fact
+I turn coffee ☕ into code… sometimes bugs too 🐛
+
+---
+
+### 🌼 Let's Connect!
+- 💬 Always open to learning & collaborations  
+
+---
+
+✨ *"Keep learning, keep building, keep growing!"*
